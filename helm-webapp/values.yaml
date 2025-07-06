@@ -12,3 +12,6 @@ image:
   tag: latest
 
 replicas: 2
+
+container:
+  name: myhelmcontainer
