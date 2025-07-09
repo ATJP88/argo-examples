@@ -11,7 +11,7 @@ image:
   name: devopsjourney1/mywebapp
   tag: latest
 
-replicas: 2
+replicas: 1
 
 container:
   name: myhelmcontainer
